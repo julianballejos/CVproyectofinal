@@ -111,6 +111,10 @@
             }
         }
 
+        html {
+            scroll-padding-top: 55px; /* para ajustar cdo se clickea un link */
+          }
+
         body {
             font-family: 'Montserrat', sans-serif;
             color: #111;
