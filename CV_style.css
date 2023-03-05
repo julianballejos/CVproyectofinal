@@ -113,6 +113,7 @@
 
         html {
             scroll-padding-top: 55px; /* para ajustar cdo se clickea un link */
+            scroll-behavior: smooth;/* scroll suave */
           }
 
         body {
